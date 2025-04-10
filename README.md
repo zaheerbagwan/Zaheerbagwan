@@ -13,17 +13,17 @@
 - **Tools**: Git, MySQL, Eclipse, VS Code, Jira  
 
 ## Projects
-- **Crop Recommendation System (Final Year Project)** – [Repo Link](#)  
+- **Crop Recommendation System (Final Year Project)** – 
   *Predicts the most suitable crop to grow based on data like soil type, rainfall, and temperature.*  
-- **Zcasting Weather App** – [Repo Link](#)  
+- **Zcasting Weather App** –
   *Weather forecast app using OpenWeather API with a clean UI.*  
-- **ATM Simulation Project** – [Repo Link](#)  
+- **ATM Simulation Project** – 
   *Simulates ATM functions like balance check, withdrawal, and PIN verification.*  
-- **Bagwan’s Burger Website** – [Repo Link](#)  
+- **Bagwan’s Burger Website** – 
   *Interactive food ordering and seat booking site using HTML, CSS, JS.*
 
 ## Coding Profiles
-- **Code360** – [Link](#)  
+- **Code360** –   
 
 ## Let’s Connect
 - **LinkedIn** – [https://tinyurl.com/37tv6u57]
