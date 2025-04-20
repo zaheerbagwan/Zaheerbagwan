@@ -23,7 +23,7 @@
   *Interactive food ordering and seat booking site using HTML, CSS, JS.*
 
 ## Coding Profiles
-- **Code360** –   
+- **Code360** – [https://shorturl.at/KHSXs]   
 
 ## Let’s Connect
 - **LinkedIn** – [https://tinyurl.com/37tv6u57]
