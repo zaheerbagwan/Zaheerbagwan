@@ -12,7 +12,8 @@
  Servlet, SpringBoot (Basics), Data Structures & Algorithms  
 - **Databases & Backend**: MySQL, DBMS, JDBC  
 - **Tools & Technologies**: Git, Postman, Apache Tomcat, JIRA, Visual Studio Code, Eclipse, NetBeans, AI Tools, Cloud
- Computing (Basics)  
+ Computing (Basics)
+- **Core SKills**: Problem Solving, Troubleshooting, Debugging, SDLC Understanding, Team Collaboration, Quick Learning 
 
 ## Projects
 - **Crop Recommendation System (Final Year Project)** – 
