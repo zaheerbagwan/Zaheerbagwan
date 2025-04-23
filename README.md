@@ -8,9 +8,11 @@
 - Love building real-world projects with clean code and user-friendly design  
 
 ## Skills
-- **Languages**: Java, HTML, CSS, JavaScript, SQL  
-- **Frameworks**: Spring Boot, JSP, Servlets  
-- **Tools**: Git, MySQL, Eclipse, VS Code, Jira  
+- **Programming & Development**: Java, SQL, HTML, CSS, JavaScript, Object-Oriented Programming (OOP), JSP,
+ Servlet, SpringBoot (Basics), Data Structures & Algorithms  
+- **Databases & Backend**: MySQL, DBMS, JDBC  
+- **Tools & Technologies**: Git, Postman, Apache Tomcat, JIRA, Visual Studio Code, Eclipse, NetBeans, AI Tools, Cloud
+ Computing (Basics)  
 
 ## Projects
 - **Crop Recommendation System (Final Year Project)** – 
