@@ -4,7 +4,8 @@
 
 ## About Me
 - Passionate about Java, Backend Development & Problem-Solving  
-- Ranked Top 0.5% in Math Problem Solving on Code360  
+- Ranked Top 0.5% in Math Problem Solving on Code360
+- Ranked Top 3.58% in Strings Problem Solving on Code360  
 - Love building real-world projects with clean code and user-friendly design  
 
 ## Skills
