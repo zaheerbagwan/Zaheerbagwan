@@ -3,7 +3,14 @@
 # Hi, I'm Zaheer (Z1) — Aspiring Software Engineer
 
 ## About Me
-- Passionate about Java, Backend Development & Problem-Solving  
+ a passionate and self-driven software developer with a strong foundation in Java, 
+ full-stack development, and problem-solving. I’ve completed internships as both a Java Developer and Full Stack Developer, 
+ and ranked in the Top 0.5% on Naukri Code 360 for my coding skills.
+
+ I enjoy building real-world projects, learning new technologies, and continuously improving my craft. 
+ I'm especially interested in backend development, cloud fundamentals, and exploring how software can solve meaningful problems.
+
+ ## Achievements  
 - Ranked Top 0.5% in Math Problem Solving on Code360
 - Ranked Top 3.58% in Strings Problem Solving on Code360  
 - Love building real-world projects with clean code and user-friendly design  
