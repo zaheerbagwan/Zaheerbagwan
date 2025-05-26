@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hi, I'm Zaheer (Z1) — Aspiring Software Engineer
+# I'm Zaheer (Z1) — Aspiring Software Engineer & I am Open To Work
 
 ## About Me
  a passionate and self-driven software developer with a strong foundation in Java, 
